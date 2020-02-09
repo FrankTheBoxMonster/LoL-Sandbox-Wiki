@@ -1,5 +1,7 @@
 # LoL-Sandbox-Wiki
 
+[Start browsing](https://github.com/FrankTheBoxMonster/LoL-Sandbox-Wiki/tree/master/wiki)
+
 A collection of various details and specifications for the internal workings of League of Legends and LoL Sandbox projects.  This mainly exists to provide some redundancies against [the bus factor](https://en.wikipedia.org/wiki/Bus_factor).
 
 If a specific topic appears to be lacking in detail, clarity, accuracy, or existence, make sure to [create an issue](https://github.com/FrankTheBoxMonster/LoL-Sandbox-Wiki/issues) about it if one does not exist already, describing what you would like to see.  If a similar issue already exists, comment on the issue if you see something being left out.
